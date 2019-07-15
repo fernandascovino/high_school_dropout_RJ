@@ -1,6 +1,6 @@
-## Project Title
+## Predição de evasão escolar no ensino médio do RJ
 
-One Paragraph of project description goes here.
+Este projeto tem por objetivo identificar alunas(os) em risco de evasão escolar no ensino médio das escolas estaduais do estado do Rio de Janeiro. Através dos dados do Censo Escolar de 2015 a 2017, serão explorados e analisados modelos de aprendizado de máquina para predição desse fenômeno, verificando-se variáveis explicativas levantadas pela literatura.
 
 ### Project Organization
 
@@ -32,7 +32,7 @@ You need change to your name on the files: [LICENSE.md](LICENSE.md), here (below
 
 ### Authors
 
-* **You** - *Code maker* - [@you](https://github.com/@you)
+* **Fernanda Scovino** - *Code maker* - [@fernandascovino](https://github.com/fernandascovino)
 
 ### License
 
